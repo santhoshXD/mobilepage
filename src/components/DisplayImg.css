@@ -1,0 +1,159 @@
+.products{
+  
+    width: 70px;
+    height: 100px;
+    display: inline-flex;
+}
+
+.main-image{
+    width: 400px;
+    height: 500px;
+}
+.left{
+    margin-left: 80px; 
+     padding: 15px;
+     max-width: 100px;
+}
+
+
+
+.center, .right{
+    padding: 10px;
+}
+
+.center{
+    position: absolute;
+    left: 20%;
+    top: 18%;
+}
+
+.right{
+    position: absolute;
+    left: calc(50% + 100px);
+    top: 18%;
+}
+
+.button1,  .button3{
+    margin-right: 22px;
+}
+
+.button3{
+  background-color: black; 
+  color: #fff; 
+  border: none;
+  border-radius: 4px;
+  padding: 10px 20px; 
+  font-size: 16px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out; 
+  margin-left: 20px;
+
+ 
+}
+
+.button3:hover {
+   transform: scale(1.1);
+}
+
+
+.button1{
+    border: 2px solid lightgrey;
+    padding:  10px;
+    width: 200px;
+    outline: none;
+    align-items: center;
+    -webkit-appearance: none;
+    appearance: none;
+}
+
+
+.button1 option{
+  color: blue;
+  width: 40px;
+  height: 40px;
+}
+
+
+.button2{
+    border:1px solid black;
+}
+
+.quantity-button {
+    background-color: blue;
+    color: white;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
+  .button2{
+    margin-right: 10px;
+  }
+  
+  .button2b {
+    margin-left: 10px;
+  }
+
+  .zoom{
+    text-align: center;
+    cursor: pointer;
+  }
+
+  .justify{
+    text-align: justify;
+    
+  }
+
+
+  .ul{
+    margin-right: 45%;
+    padding: 0;
+  }
+
+  .colorbar{
+    border-radius: 10px;
+    width: 15px;
+    height: 15px;
+  }
+
+
+  .wishlist{
+    padding: 10px;
+    margin: 0;
+  
+  }
+
+  .wishlist p{
+    display: inline;
+    margin: 0%;
+    padding-right: 50px;
+    cursor: pointer;
+
+  }
+
+
+
+  
+  .color-ul{
+    display: flex;
+    margin: 0%;
+    list-style-type: none;
+    padding: 0;
+   
+  }
+
+  .color-ul li{ 
+    width: 15px;
+    height: 15px;
+    margin: 5px ;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    cursor: pointer;
+    
+
+  }
+
+  h5{
+    font-weight: normal;
+  }
+
+  

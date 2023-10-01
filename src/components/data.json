@@ -1,0 +1,39 @@
+[
+    
+
+{
+    "id" : "1",
+    "name" : "iphone(Red)",
+    "url" : "https://rukminim2.flixcart.com/image/416/416/kg8avm80/mobile/q/8/f/apple-iphone-12-dummyapplefsn-original-imafwg8dbzv8vh7t.jpeg?q=70"
+},
+
+
+{
+    "id" : "2",
+    "name" : "iphone(Blue)",
+    "url" : "https://rukminim2.flixcart.com/image/416/416/kg8avm80/mobile/y/7/n/apple-iphone-12-dummyapplefsn-original-imafwg8dpyjvgg3j.jpeg?q=70"
+},
+
+{
+    "id" : "3",
+    "name" : "iphone(Green)",
+    "url" : "https://rukminim2.flixcart.com/image/416/416/kg8avm80/mobile/p/f/w/apple-iphone-12-dummyapplefsn-original-imafwg8dubf3nytw.jpeg?q=70"
+},
+
+{
+    "id" : "4",
+    "name" : "iphone(White)",
+    "url" : "https://rukminim2.flixcart.com/image/416/416/kg8avm80/mobile/j/f/9/apple-iphone-12-dummyapplefsn-original-imafwg8dkyh2zgrh.jpeg?q=70"
+},
+
+
+{
+    "images" :[ "https://rukminim2.flixcart.com/image/416/416/kg8avm80/mobile/q/8/f/apple-iphone-12-dummyapplefsn-original-imafwg8dbzv8vh7t.jpeg?q=70",
+                "https://rukminim2.flixcart.com/image/416/416/kg8avm80/mobile/y/7/n/apple-iphone-12-dummyapplefsn-original-imafwg8dpyjvgg3j.jpeg?q=70",
+                "https://rukminim2.flixcart.com/image/416/416/kg8avm80/mobile/p/f/w/apple-iphone-12-dummyapplefsn-original-imafwg8dubf3nytw.jpeg?q=70",
+                "https://rukminim2.flixcart.com/image/416/416/kg8avm80/mobile/j/f/9/apple-iphone-12-dummyapplefsn-original-imafwg8dkyh2zgrh.jpeg?q=70"
+    ]
+
+}
+    
+]
