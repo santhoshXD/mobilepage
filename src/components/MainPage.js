@@ -15,6 +15,8 @@ export default function MainPage() {
                             <select className='select'>
                                 <option className='option'>PRODUCTS</option>
                                 <option className='option'>PRODUCTS 1</option>
+                                <option className='option'>PRODUCTS 2</option>
+                                <option className='option'>PRODUCTS 3</option>
                             </select></a> </li>
                         <li><a href='#'>SERVICES</a></li>
                         <li><a href='#'>FAQ</a></li>
@@ -23,7 +25,7 @@ export default function MainPage() {
                     </ul>
                 </nav>
             </header>
-            <p>Technology   <span className='tech'>iPhone 12</span></p>
+            <p>Technology > <span className='tech'>iPhone 12</span></p>
         </div>
 
     )

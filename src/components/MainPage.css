@@ -1,18 +1,14 @@
 .header {
-    background: transparent linear-gradient(to right, #f12711, #f5af19);
-    width: 100%;
-    /* position: fixed;
-    top: 0%;
-    left: 0%;
-    right: 0%; */
+    /* background: transparent linear-gradient(to right, #f12711, #f5af19); */
     padding: 10px;
     display: flex;
     justify-content: space-between;
+    
 }
 
 h1 {
     margin: 0%;
-    /* color: blue; */
+    margin-left: 10px  ;
     font-style: italic;
 }
 
@@ -22,20 +18,22 @@ span {
     font-weight: 100;
 }
 
+
 .list {
-    padding: 0;
-    padding-right: 5px;
+    /* padding: 0; */
+    /* padding-right: 5px; */
     list-style-type: none;
     display: flex;
 }
 
 .list li {
     margin-right: 60px;
+    
 }
 
 a {
     text-decoration: none;
-    color: white;
+    color: black;
 }
 
 a:hover {
@@ -55,13 +53,9 @@ p {
     background-color: initial;
     color: initial;
     border: initial;
-   color: #fff;
+   color: black;
     
     
     
 }
 
-.option {
-   border: 1px solid black;
-    
-}

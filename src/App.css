@@ -1,0 +1,23 @@
+.left{
+    margin-left: 80px; 
+     padding: 15px;
+     max-width: 100px;
+}
+
+
+
+.center, .right{
+    padding: 10px;
+}
+
+.center{
+    position: absolute;
+    left: 20%;
+    top: 18%;
+}
+
+.right{
+    position: absolute;
+    left: calc(50% + 100px);
+    top: 18%;
+}
